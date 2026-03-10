@@ -1,6 +1,6 @@
 # ClojureFft
 
-A Clojure library designed to perform discrete Furier transforms on vectors of numbers.
+A Clojure library designed to perform discrete Fourier transforms on vectors of numbers.
 
 ## Usage
 
